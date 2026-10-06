@@ -9,8 +9,10 @@
 
 ## How to download
 
-#### A. Without Git:
-Click on `Code` > `Download ZIP` and unpack it, or
+#### A. Without installing Git
+Click on `Code` > `Download ZIP` and unpack it:
+<img width="982" height="483" alt="github-download-zip" src="https://github.com/user-attachments/assets/b4a1508c-cf48-4496-b53c-12327a9d9324" />
+
 #### B. With GitHub Desktop:
 1. Click `File` > `Clone Repository`
 2. Select `URL` and put this repo's URL: `https://github.com/AHA-ArchitectureAndHumanAugmentation/Alpine-ARchitecture-2026.git`. Click **Clone**.
