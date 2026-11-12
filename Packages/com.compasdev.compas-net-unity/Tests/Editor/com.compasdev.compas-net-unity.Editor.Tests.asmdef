@@ -1,0 +1,26 @@
+{
+    "name": "com.compasdev.compas-net-unity.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "Compas",
+        "Compas.Unity",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "CompasPb.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

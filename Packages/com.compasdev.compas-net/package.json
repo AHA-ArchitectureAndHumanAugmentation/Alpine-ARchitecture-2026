@@ -1,0 +1,21 @@
+{
+  "name": "com.compasdev.compas-net",
+  "version": "0.0.1",
+  "displayName": "Compas",
+  "description": "Compas core models and data structures in pure C#",
+  "unity": "6000.0",
+  "dependencies": {
+    "dev.compas.compas-pb": "1.0.0",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "keywords": [
+    "compas",
+    "geometry",
+    "library"
+  ],
+  "author": {
+    "name": "Joseph Kenny",
+    "email": "joseph.kenny@princeton.edu",
+    "url": "https://compas.dev/compas_xr/latest/index.html"
+  }
+}

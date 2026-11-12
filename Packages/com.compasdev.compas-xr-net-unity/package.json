@@ -1,0 +1,24 @@
+{
+  "name": "com.compasdev.compas-xr-net-unity",
+  "version": "0.0.1",
+  "displayName": "Compas XR Unity",
+  "description": "Unity package for Compas XR",
+  "unity": "2023.2",
+  "dependencies": {
+    "com.compasdev.compas-net-unity": "0.0.1",
+    "com.unity.xr.arfoundation": "6.3.5",
+    "com.unity.xr.interaction.toolkit": "3.3.0"
+  },
+  "keywords": [
+    "compas",
+    "geometry",
+    "xr",
+    "ar",
+    "library"
+  ],
+  "author": {
+    "name": "Joseph Kenny",
+    "email": "joseph.kenny@princeton.edu",
+    "url": "https://compas.dev/compas_xr/latest/index.html"
+  }
+}
