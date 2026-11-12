@@ -1,0 +1,20 @@
+{
+  "name": "com.compasdev.compas-net-unity",
+  "version": "0.0.1",
+  "displayName": "Compas Unity",
+  "description": "Compas core models and data structures for Unity",
+  "unity": "2023.2",
+  "dependencies": {
+    "com.compasdev.compas-net": "0.0.1"
+  },
+  "keywords": [
+    "compas",
+    "geometry",
+    "library"
+  ],
+  "author": {
+    "name": "Joseph Kenny",
+    "email": "joseph.kenny@princeton.edu",
+    "url": "https://compas.dev/compas/latest/index.html"
+  }
+}

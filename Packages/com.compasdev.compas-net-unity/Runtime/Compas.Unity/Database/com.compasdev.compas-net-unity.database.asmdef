@@ -1,0 +1,23 @@
+{
+    "name": "Compas.Unity.Database",
+    "rootNamespace": "Compas.Unity.Database",
+    "references": [
+        "Compas.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [
+        "FIREBASE_AVAILABLE"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.google.firebase.app",
+            "expression": "11.8.1",
+            "define": "FIREBASE_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/QRCodes.meta
+guid: ac2d95d0be5263d45837a79138ed6ec5
+folderAsset: yes
+DefaultImporter:
+|||||||| 7c4c497:Assets/Resources/PerformanceTestRunSettings.json.meta
+guid: 3b1d506e4f42aed4cba3e367e1ee7bb7
+TextScriptImporter:
+========
+guid: 16891478bb4f9764f9760348cad4b212
+PrefabImporter:
+>>>>>>>> origin/feature/compas-model-integration:Assets/Prefabs/Sequence Slider.prefab.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

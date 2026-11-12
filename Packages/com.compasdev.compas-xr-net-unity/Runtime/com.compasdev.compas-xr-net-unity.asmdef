@@ -1,0 +1,22 @@
+{
+    "name": "Compas.XR.Unity",
+    "rootNamespace": "Compas.XR.Unity",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.ARSubsystems",
+        "Unity.Mathematics",
+        "Unity.XR.CoreUtils",
+        "Compas",
+        "Compas.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

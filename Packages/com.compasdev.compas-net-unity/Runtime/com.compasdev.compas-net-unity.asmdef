@@ -1,0 +1,16 @@
+{
+    "name": "Compas.Unity",
+    "rootNamespace": "Compas.Unity",
+    "references": [
+        "Compas"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
