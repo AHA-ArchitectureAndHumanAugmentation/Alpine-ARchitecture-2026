@@ -10,6 +10,7 @@ public class SphereReaction : MonoBehaviour
 
     private void Start()
     {
+        // Another way is to add a component by code like so:
         audioSource = gameObject.AddComponent<AudioSource>();
         sphereRenderer = GetComponent<Renderer>();
     }

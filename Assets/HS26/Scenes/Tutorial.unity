@@ -391,7 +391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitSound: {fileID: 8300000, guid: 1f00d6a5b10c1614089e29b03c5b2232, type: 3}
-  hitColor: {r: 1, g: 0, b: 0, a: 1}
+  hitColor: {r: 0, g: 0.9226117, b: 1, a: 1}
 --- !u!114 &243051372
 MonoBehaviour:
   m_ObjectHideFlags: 0
