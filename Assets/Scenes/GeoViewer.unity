@@ -10327,6 +10327,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 2
       objectReference: {fileID: 0}
@@ -10339,6 +10343,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnMessageReceived.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 0}
@@ -10346,6 +10354,10 @@ PrefabInstance:
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 6396264486110981741}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: PlayOneShot
@@ -10355,8 +10367,16 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnMessageReceived.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: SetActive
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: PlayOneShot
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -10365,6 +10385,10 @@ PrefabInstance:
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnMessageReceived.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: UnityEngine.GameObject, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.AudioSource, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
@@ -10379,6 +10403,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 8300000, guid: 1f00d6a5b10c1614089e29b03c5b2232, type: 3}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
       propertyPath: OnGeometryDrawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.AudioClip, UnityEngine
       objectReference: {fileID: 0}
@@ -10386,11 +10414,20 @@ PrefabInstance:
       propertyPath: OnMessageReceived.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 2553156692266298891, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+      propertyPath: OnGeometryRendered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.AudioClip, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+--- !u!82 &6396264486110981741 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 6952897754509290213, guid: f57419eb7004dc84e8053e58128e6a86, type: 3}
+  m_PrefabInstance: {fileID: 6396264486110981740}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9179053763526444684
 PrefabInstance:
   m_ObjectHideFlags: 0
